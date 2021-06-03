@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A call from sin to the holiness of life, or, A warning to the inhabitants of the town of Penzance and to all others that have the form of godliness but deny the power thereof by their evil conversation ... / given forth by ... Hugh Cloake.</title>
+            <author>Cloake, Hugh, d. 1688.</author>
+         </titleStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33472</idno><idno type="EEBO-CITATION">15500926</idno>
+  <idno type="VID">103579</idno>
+  <idno type="EEBO-PROQUEST">2240893200</idno>
+  
+            <idno type="STC">Wing C4720</idno>
+            <idno type="STC">ESTC R35617</idno>
+            <idno type="OCLC">15500926</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A33472)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103579)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1185:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A call from sin to the holiness of life, or, A warning to the inhabitants of the town of Penzance and to all others that have the form of godliness but deny the power thereof by their evil conversation ... / given forth by ... Hugh Cloake.</title>
+                  <author>Cloake, Hugh, d. 1688.</author>
+               </titleStmt>
+               <extent>[7], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages cropped and stained with print show-through.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Repentance.</term>
+               <term type="geographic_name">Penzance (England)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103579:1"/>
+            <p>A CALL FROM SIN TO Holiness of Life.</p>
+            <p>OR A Warning to the Inhabitants of the Town of <hi>Penzance,</hi> and to all others that have the Form of Godliness, but deny the power thereof by their evil Conversation.</p>
+            <p>Also An Incouragement to all that are willing to turn their Faces Sion-ward, and Live Godly in Christ Jesus.</p>
+            <p>Given forth by one of the Least of Christs Flock, HUGH CLOAKE.</p>
+            <q>
+               <p>The Memory of the Just is Blessed, but the name of the Wicked shall Rot,</p>
+               <bibl>
+                  <hi>Prov. 10.7.</hi>
+               </bibl>
+            </q>
+            <p>Printed in the Year, 1685.</p>
+         </div>
+         <div type="epigraphs">
+            <pb facs="tcp:103579:2"/>
+            <head>A Call from Sin to Holiness of Life.</head>
+            <q>
+               <p>FLee out of the midst of <hi>Babylon,</hi> and deliver every man his Soul: be not cut off in her iniquity: for this is the time of the Lords Vengance; he will render unto her a recompence,</p>
+               <bibl>
+                  <hi>Jer. 51.6.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>For evil doers shall be cut off; but those that wait upon the Lord, shall inherit the Earth.</p>
+               <p>For yet a little while, and the wicked shall not be: yea, thou shalt diligently consider his place, and it shall not be.</p>
+               <p>But the meek shall inherit the Earth: and shall delight themselves in the abundance of peace.</p>
+               <p>The wicked plottteth against the just, and gnasheth upon him with his Teeth.</p>
+               <p>The Lord shall laugh at him, for he seeth that his day is coming.</p>
+               <p>The wicked have drawn out the sword, and have bent the bow, to cast down the poor and needy, and to slay such as be of upright Conversation.</p>
+               <p>Their sword shall enter into their own heart, and their bowes shall be broken.</p>
+               <p>A little that a righteous Man hath, is better then the riches of many wicked.</p>
+               <p>For the Arms of the wicked shall be broken: but the Lord uphold<g ref="char:EOLhyphen"/>eth the righteous.</p>
+               <p>The Lord knoweth the days of the upright: and their inheritance shall be for ever.</p>
+               <p>They shall not be ashamed in the evil time: and in the dayes of fa<g ref="char:EOLhyphen"/>mine they shall be satisfied,</p>
+               <bibl>
+                  <hi>Psal. 37.9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19.</hi>
+               </bibl>
+            </q>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:103579:2"/>
+            <head>AN EPISTLE To Three Sorts of READERS.</head>
+            <argument>
+               <p>The first is to the truly Christian Reader.</p>
+               <p>The second is to that Reader, that is truly hungering and thirsting after Christ; and doth desire the true knowledge of the way of Life.</p>
+               <p>The third is to the Scoffing Scribe, or Pharise, which it may happen that these lines may come into the hands of some of them, and of all, these Three sorts of People.</p>
+            </argument>
+            <div n="1" type="reader">
+               <head>To the First.</head>
+               <opener>
+                  <salute>Christian Readers,</salute>
+               </opener>
+               <p>SIng Glory, Glory, Glory, with me to the God of my Sal<g ref="char:EOLhyphen"/>vation: which was, and is God over all; Blessed and Prai<g ref="char:EOLhyphen"/>sed be his Name for ever and ever, O my Soul, praise the Lord for he hath called thee from Darkness, into his Marvelous Light and from the power of Satan, into his own Power. Trul<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Christian Reader, great cause hast thou to praise the Lord, tha<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in this Dark and Gloomy Day, the Lord is calling in of mo<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Sheep into the great Shepherds fold; from the dark Towns an<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> dark Corners of this Land, of which this I live in is one of them.</p>
+            </div>
+            <div n="2" type="reader">
+               <pb facs="tcp:103579:3"/>
+               <head>To the Second Sort of Readers.</head>
+               <p>TO you I say, there is a promise belonging unto; if you will abide in this State, until Gods appointed time is to satisfie you, if you will but wait until he is pleased to open his treasury, and he will supply all your Spiritual wants. For since the be<g ref="char:EOLhyphen"/>ginning of the World, Men have not Heard, nor perceived by the Ear; neither hath the Eye seen, O God besides thee, what he hath prepared for him that waiteth for him. O therefore turn thou to thy God: keep mercy and judgment and wait on thy God continually; call to mind what the Church of Christ saith, she chargeth the Daughters of <hi>Jerusalem,</hi> that they stir not up, nor awake her love till she pleaseth; for Gods time is the best time: now the way of life is within to the wise in Soul, which is to meditate continually in the law of God written in their Hearts, by the Spirit of Christ Jesus. Now all that doth so Meditate, shall be as Trees Planted by the Rivers of Water; for they shall alwayes receive Sap from the River of Life, Christ <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and if they continually abide in him, they shall live to all Eternity.</p>
+               <p>Now reader, I have here told thee the way of Life, which is above to the wise, that he may depart from Hell beneath. These <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ew following lines doth tell thee who is the way, the door, and <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he life, and Light to guide thy Soul and Feet into the straight narrow Path, that leadeth to life everlasting. I do here also <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ell thee, that a Measure, or Portion, or Tallent of the Spirit of Christ is given thee to profit withal; which I know it doth ma<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y times call thee to an account, and checks and reproves in thy <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onscience for evil thoughts, words, and actions; O do not <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>earden thy Heart, nor deaffen thy Ears: nor do dispite unto <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Spirit of Grace, for its gentle reproofs: if thou wilt obey it, <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> will make thee wise to Salvation.</p>
+            </div>
+            <div n="3" type="reader">
+               <head>To the Third Sort.</head>
+               <p>O be you no longer Scoffers, or Mockers, at the true Wis<g ref="char:EOLhyphen"/>dom of God, which is pure, peaceable, gentle, and easie be intreated; and to intreat all people to that which is good.
+<pb facs="tcp:103579:3"/> O if you like Prodigal Children are wasting the Tallent that your heavenly Father have given you; O I desire you for your poor Souls sake, to call to mind your Fathers House: for with him is Bread plenty, and Water sure: the Bread of Life, and the Water of Life, for every Soul that will come, or return to their Father.</p>
+               <p>O therefore Return, Return, to your Father that Created you, that his Spirit may redeem you from a Scoffing or Mock<g ref="char:EOLhyphen"/>ing Life, or Conversation; for I testifie unto you, except ye come to him for the Bread of Life, (and receive that Leven) with all your hearts and Souls, that it may change you, and re<g ref="char:EOLhyphen"/>new you in your Spirits and minds, that you may come to live Holy and Righteous lives; otherwise you will not see the Face of God in Glory.</p>
+            </div>
+            <div type="speech">
+               <head>And now my Speech is to you of the place of my Nativity, that may read these Lines.</head>
+               <p>THe Lord my God he knows the secrets of all Hearts, and he knows that I have counted my self indebted unto you; since the time the Lord separated me from you: and the Lord knows I have many times desired him to enable me; to pay un<g ref="char:EOLhyphen"/>to you what the Lord did know was most usefull for you. And now I am clear of my Debt, and I have Peace in my self, be<g ref="char:EOLhyphen"/>cause I do not boast in other Mens lines made ready to my hand; neither have I runned in my Will, nor my Wisdom: But I pa<g ref="char:EOLhyphen"/>tiently waited on the Lord until his Power did arise within my Soul, and inclined my heart unto this call unto you; for as I waited on the Lord, on the first day of the week, as I sate in Meeting, seeking of the Lord for the Bread of Life, the Lord opened his Treasury and full fed me; and then he powerfully put this in my Heart to write unto you, and I had no peace in my self before I did that day put Pen to Paper to begin to write these insuing lines; which was in the Twelfth Month, on the fourteenth day of the Month, in the year 168<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+               <p>And now my dear Neighbours in and of the place of my Nativity, I appeal to the Lord to witness for me, that I did not sepparate my self from you, to make my self singular amongst you; but it was the work of the great God of Heaven. And I
+<pb facs="tcp:103579:4"/> also appeal to the same Witness, that it is not an Inky Character I seek amongst you; but I study now, and I hope I shall to the end of my Dayes here on Earth, study to shew my self more approved to God, then to Man: and O that I may continually wall on the God of my Salvation, that I may renew my strength continually.</p>
+               <p>And truly my dear Neighbours, I have many times sat down and wondered at the love of God to me; more then to all of you: In the calling of me first from among you, and bringing me into the Straight and narrow Path that leadeth to life ever<g ref="char:EOLhyphen"/>lasting, if in the same I abide faithfully, I shall at last find Rest, Peace, and Joy, for evermore to my poor Soul.</p>
+               <p>Dear Neighbours, you very well know my Conversation amongst you; that I was not counted guilty of many open or crying Sins, but I do acknowledge my self to have been a great and grievous Sinner, but my Sins became a burden too heavy for me to bear; and I grew weary and heavy Laden with them, and under them: for the Lord made it known unto me, that no Sinner had any Inheritance in his Kingdom, while they are in the State of Sin. When I thus knew I had no Peace in my self by reason of the great bondage of Sin that I was under; and I many times strived in my strength to get out of Sin, but I could not: But I was Ignorant that it was the Word or Spirit, or Grace, or Light of the Lord that was shining in me, giving me a sight of my Sins, and calling of me to come out of them, that I might have fellowship with him; but when I knew it was the Lord, and I did obey his voice, I found that one grain of his Grace would remove Mountains of Sins;<note place="margin">
+                     <gap reason="illegible: page cropped" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 10.28,</note> but surely I here truly confess one great fault that was in me, after I came to this know<g ref="char:EOLhyphen"/>ledge, the love of this World, and I knowing that they that depart from iniquity makes themselves a Prey unto this World; and the Cryes of my Wife and Relations about me,<note place="margin">
+                     <gap reason="illegible: page cropped" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <gap reason="illegible: page cropped" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>4.29.</note> telling of me what would become of my Wife and Children, and of the small tallent I had in this World. These loud Crys of this World, did cool my true desires for two years space and up<g ref="char:EOLhyphen"/>wards, but still I retained a true love to the Truth, which is the Spirit of Truth; which guides into all Truth: although in that time I did many things in my Flesh, which I did not allow of in my Spirit; but the Lord by his Spirit, was pleased graciously to appear to me again (with power in my Soul) and I had not
+<pb facs="tcp:103579:4"/> rest in my self before. I wholly separated my self from the Dead and outward Worship, you joyn your selves unto; but now I have Peace in my self, and injoy sweet Refreshments through Christ the well-spring of Life;<note place="margin">
+                     <hi>Math.</hi> 1<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.2<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> which is of more value to me, then the increase of all worldly Treasure. And I can from my heart truly say,<note place="margin">
+                     <hi>Math.</hi>
+                     <gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0.37.</note> that if my Father and Mother were on their Knees before me, and my Wife and Children were hang<g ref="char:EOLhyphen"/>ing about me; and if they were all seeking to keep me in the vain Conversation of this World, I can truly say, that I should not give Ear to them to walk in the true and living way of my Lord and Saviour Jesus Christ.</p>
+               <p>O come Away, come Away, Dear Wife, Dear Children, Dear Parents, Dear Brethren and Sisters, and Dear Relations, all of you according to the Flesh. O follow the Father of Spirit and Life, Light and Truth, and his Grace will guide you into all Truth.</p>
+               <p>O come Dear Magistrates, and all People of the place of my Nativity; O follow Christ Jesus the Captain of Salvation; O follow him like faithful Servants and Valiant Souldiers, and he will bring you to Everlasting Joy, Peace and Rest for evermore. <hi>Amen.</hi>
+               </p>
+               <closer>
+                  <signed>
+                     <hi>So desires my Soul of the Lord for every one of you, for I am a true Lover of you all, and a Longer after your Souls Welfare.</hi> My outward Name is HUGH CLOAK.</signed>
+                  <dateline>
+                     <hi>Penzance Cornwel</hi>
+                     <date>the 14th of the twelfth Month, 1685/6.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:103579:5"/>
+            <head>A Call from Sin to Holiness of Life.</head>
+            <p>THIS in the Love that many Waters cannot Quench, to you my Dear Country People, of and in the place of my Nativity, in the Town of <hi>Penzance,</hi> in the County of <hi>Cornwel;</hi> To you hath the Lord made my Soul to Earn towards you, and to Lament over you, and to cry aloud unto you, both High and Low, or Rich and Poor, to come out of the vain Conversation that <hi>Sodom</hi> and <hi>Aegypt</hi> in dayes of old lived in.<note place="margin">
+                  <hi>Gen.</hi> 13.13</note>
+            </p>
+            <p>And first to you, O you high Men or Rulers in or of this Town; Seriously consider, that the Lord hath made you Ste<g ref="char:EOLhyphen"/>wards of Spiritual and Earthly Tallents; O seriously consider of of it, and make good use of your Stewardship, for the Lord will certainly Come and call you to an Account, for the Lord will certainly do by you, as he shews you in his Parable: How it was done to those Servants, to whom the Tallents were given to improve? O consider, consider, that the Rulers of the Peo<g ref="char:EOLhyphen"/>ple, truly ought to be a terror to Evil doers: but a praise to them that do well; to Love Mercy, to do Justly, and to walk humbly with the Lord God Everlasting: according to the Exam<g ref="char:EOLhyphen"/>ple of our Lord Jesus Christ, who is Head over all Principalities and Powers. O ye Rulers know you not, that his Servants you are, whom you obey: If Servants of Sin, living in <hi>Sodom</hi> and <hi>Aegypt,</hi> vain wicked Conversations and Customs; then you are free from Righteousness, and you are not good Stewards of the Spiritual Tallent. For that Tallent of the grace of God is given to every Man to profit with all, and it will surely teach all those that truly obey in; <hi>To deny all ungodliness and worldly Lusts, and to live Godly, Righteously, and Soberly, in this present World.</hi> For know ye, my Dear Rulers; that no unrighteous Man or Wo<g ref="char:EOLhyphen"/>man hath Right or Inheritance in or to the Kingdom of God or Heaven. Therefore O ye Rulers, there is a price given you of God, if you will make good use of it; there is a Treasure or Jewel hid in the Field of your Souls: and if you will seek it with all your hearts, you will surely find it; it is a Treasure worth the seeking after: it is a Treasure will make you Rich in the Heavens; and Rich and Happy to all Eternity. O therefore stay no longer in <hi>Sodom</hi> and <hi>Aegypts</hi> vain, and wicked Fashions,
+<pb n="2" facs="tcp:103579:5"/> and Customs, and Conversations, for this surely know if you a<g ref="char:EOLhyphen"/>bide in it, you will surely be partakers of their Plagues. Know you not if the day of your visitation be not past, that the Lord Jesus knocking at the door of your Hearts,<note place="margin">
+                  <hi>Rev.</hi> 3.20</note> and if you will but hear his Voice and receive him in, with all your Souls, you will find that with him is Bread plenty, and Water sure;<note place="margin">
+                  <hi>John</hi> 6.3<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 50.</note> the Bread of Life, and the Water of Life, to feed every hungery and thir<g ref="char:EOLhyphen"/>sty Soul. Again, I say, if you will receive him with all your Hearts and Souls, you will feel his Spirit to be as a River of mighty Waters running through your Souls; to wash you and to cleanse you from all filthyness of the Flesh, that you may serve and Worship the Lord in newness of Spirit, in newness of Lives, in Holy and Spiritual Worship and Lives: and then you will come to forsake those Priests or Teachers which are Carnal Go<g ref="char:EOLhyphen"/>spelers and not Spiritual;<note place="margin">
+                  <hi>Jerm.</hi> 23 28, 29, 30 31, 32. 1 <hi>Cor.</hi> 2.4 5. <hi>Chap.</hi> 14.<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> who boast in other mens Liues made ready to their Hands, who have their teachings of Men, and not of God: then I say, you will see, that they are not the Ministers of the Gospel of Jesus Christ, who freely received and freely give.</p>
+            <p>And now I call by the power of God assisting me, to you O ye low, or poor, or inferior Sort; according to the manner of this World, I beseech you for your poor Souls sake,<note place="margin">
+                  <hi>Isa.</hi> 66.<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> be ye poor and low in Spirit; for this know assuredly, that the Lord giveth grace to the humble: but casteth down the Proud. And this know, that I count it first my Duty, to call to our Rulers to come out of <hi>Sodom</hi> and <hi>Aegypts</hi> wicked and vain Fashions, Cu<g ref="char:EOLhyphen"/>stoms, and Conversation, and to be transformed by their Obe<g ref="char:EOLhyphen"/>dience to the Light or Spirit, or Grace of God in their Souls; that they may come to be renewed in their Minds and Conver<g ref="char:EOLhyphen"/>sations; that they may not be Examples of Evil, but good Ex<g ref="char:EOLhyphen"/>amples: that they may not cause the People they Rule over, to Err from the Commandments of the Lord God everlasting. O my dear Neighbours, be you Obedient unto the Law of God or Christ, written in your Hearts and Souls, and then surely you will be Obedient unto all Rulers that Rule over you, according to the Commandments of our Lord Jesus Christ.</p>
+            <p>And now my Dear Neighbours, think not that the Name of Christians, or Protestants, will quiet your Consciences on a Death Bead; or plead for you in the day of great Account; No surely, except you are in the Nature, or the Spirit, or Power, of
+<pb n="3" facs="tcp:103579:6"/> the Lord Jesus Christ: for it is the Spirit of God that appears in the Souls or Consciences of the Male and Famale; it is that Light or Spirit that will Accuse or Excuse in the day of Judg<g ref="char:EOLhyphen"/>ment. Wherefore my Dear Neighbours, greive not the Spirit of God, crucifie not the Lord of Glory a Fresh; put him not to open shame by your wicked Lives and Conversations. O con<g ref="char:EOLhyphen"/>sider, that they that live in the lusts of the Flesh, the lusts of the Eye, and the pride of Life, they, I say, have the Devil for their God and Father: for it is sin that makes a Separation be<g ref="char:EOLhyphen"/>tween the God of Heaven and Mankind;<note place="margin">1 <hi>John</hi> 2.1, 2, 3, 4.</note> therefore touch not that forbidden Fruit, follow the Commandments of Jesus Christ, that is, be holy as your Heavenly Father is Holy; for mind what I said before unto our Rulers: That no Unholy or Unrigh<g ref="char:EOLhyphen"/>teous Man or Woman, hath any Right or Inheritance in or to the Kingdom of God or Heaven. O hearken not to the Lying Teachers, that saith, there is no freedom from sin this side the Grave; but surely my Dear Neighbours, I testifie unto you, that I do here witness the Words of the Apostle <hi>Paul</hi> to be true, that the Grace of God if it be truly obeyed it will teach every one that so doth obey; <hi>To deny all ungodliness and worldly Lusts,</hi> and to keep the Commandments of God aright. And surely, every Man or Woman that doth the will of God, in every thing they know it is their duty to do; surely all such Men or Women shall come to know more and more of the Doctrine of Jesus Christ; and they shall come to know a growing from one degree of Grace to another, until they come to be perfect Chri<g ref="char:EOLhyphen"/>stians in Christ Jesus, that the World, Flesh, nor Devil cannot do them any hurt; <hi>Nor niether Principalities or Powers, nor things present, nor things to come: shall be able to separate them from the love of God, in and through Christ Jesus my Lord.</hi>
+            </p>
+            <p>O my Dear Neighbours, not that I have already attained to it (but I press after it) and I know I shall attain to it,<note place="margin">
+                  <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>John</hi> 1.3.6, 7.</note> if I keep close fellowship with the God that hath called me out of the vain Fashions and Abominable evils that <hi>Sodom</hi> and <hi>Aegypt</hi> of old time lived in; which evils is too much the garb of this Ge<g ref="char:EOLhyphen"/>neration, under all their pretence to Christianity and Protestant Religion.</p>
+            <p>
+               <note place="margin">
+                  <hi>Deut.</hi> 30.10, 11, 12, 13, 14.</note>Therefore my Dear Neighbours, I once more call unto you, to come unto that word, which <hi>Moses</hi> directed the Children of <hi>Israel</hi> unto; it is the same word the Apostle <hi>Paul</hi> directed the
+<pb n="4" facs="tcp:103579:6"/>
+               <hi>Romans</hi> unto,<note place="margin">
+                  <hi>Rom.</hi> 10 7, 8.</note> and it is the same word that I am calling you to adhere unto, and if you are willing to come off from a Rebelli<g ref="char:EOLhyphen"/>ous and a Disobedient life, if not, I testifie unto you that you are a Rebellious and a Disobedient People; if you will not come to hear the word of the Lord, or the Spirit of Christ, that is, checking or reproving you in your Consciences for evil Thoughts, Words, and Actions; I surely testifie unto you, that this word is as living and as powerful, as it was in the dayes of <hi>Moses</hi> and of <hi>Paul:</hi> It is the living word of Reconciliation that will reconcile unto God, if you will hear it and obey it;<note place="margin">
+                  <hi>John</hi> 1.3, 4.</note> it will raise you from the grave of Sin, to Righteousness of Life, to walk in the new Birth, of which you must be born again;<note place="margin">
+                  <hi>John</hi> 3.3.</note> if you will be inheriters of the Kingdom of Heaven, or if you have a desire to be the King of Heavens Sons and Daughters; you must walk in the straight and narrow way that leadeth to life everlasting. And surely there is but one Way, and one Door by which you must enter; all which is pure and Holy, for it is Chirst, for he is the Way, the Door, the Light and Life of every true Christian; for Man of himself is not able to do any thing that is good, but the Guide, the Help, and the Assistance of every true Christian, is and must be by the Power of Christs Spirit, Dwelling, Ruling, Raigning, and Governing in and over the Souls and Hearts of Mankind.</p>
+            <p>And now my Dear Neighbours, as the Spirit of the Lord hath guided me, and directed me in the writing of these few lines, to warn you that you may not live in the same Sins, that <hi>Sodom</hi> and <hi>Aegypt</hi> of Old time lived in. O that you may not cause the wrath of the Almighty God to be poured out on you; and it is my Souls Petition unto God Almighty for all of you, that have not sinned in the great Day of your Visitation, that the good and Powerful Spirit of the Lord Jesus Christ may not cease striving with you to bring you out of the vain and wicked Con<g ref="char:EOLhyphen"/>versation of this Godless Age we live in; O that the Light or Spirit of the Lord Jesus, may be a Light unto your Souls and a Lan<g ref="char:EOLhyphen"/>thorn unto your Paths; that you may come to walk in the way of the Lord with delight and Pleasure.</p>
+            <p>O my Dear Nighbours, come one and all: O leave that which is evil, and follow that which is truly Good; for I testi<g ref="char:EOLhyphen"/>fie unto you, that none but the pure in Heart shall see God, for the Soul that is Polluted or defiled with sin cannot enter into
+<pb n="5" facs="tcp:103579:7"/> Heaven. My Dear Neighbours, there is a Feast of Fat things prepared of the Lord, for them that will come unto him, and follow him: O there is Oyle and Wine, without Mony and without price; O it is the precious Sap of the Vine of Life. If you will but receive it, it will comfort your Hearts and make glad your Souls, if you will but drink of this Well, you shall live: if you will feed on this Bread of Life continually, your Souls shall live to all Eternity.</p>
+            <p>So desireth, so prayeth my Soul to the God of my Salvation for all of you, for I am a true lover of Christianity, and of the true Faith that was delivered to the Saints.</p>
+            <p>O thou King of Kings, and Governour of all things, O thou that canst break and make soft the hard and Rocky hearts, and canst break the cords of Satan a Sunder; O let thy Spirit come with power into the Souls and Hearts of my poor Neighbours. Lord cease not piercing and breaking of them until thou hast made their Hearts contrite and humble, that they may fear and tremble ro offend thee in their Thoughts, Words, and Actions; O Lord my God, and my Redeemer, it is thou alone that art my Stay, and my Defender: O never leave me, nor forsake me, for thou, O Lord, knowest that of my self, I am not able to stand one minute of time, from falling under the temptations of the World, the Flesh and Devil. O Lord keep me through thy son in thy Almighty Power, for there is none in Heaven nor on Earth, that can preserve me besides thee: Lord keep me in the day of Tryal, and in the hour of Temptation; that I may not cast thy Law from me and bring dishonor on thy Truth: Lord Nourish and Cherish the precious seed of thy Grace that thou hast sown in my Soul, that it may grow and increase and bring forth Fruits to my honor and glory; for to thee belongs Honor, Glory, and Praise, for Evermore, <hi>Amen.</hi>
+            </p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
